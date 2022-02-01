@@ -1,0 +1,6 @@
+{
+  "name": "API",
+  "identifier": "com.credersi.app.API",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
